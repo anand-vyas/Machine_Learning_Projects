@@ -1,4 +1,4 @@
-# Machine_Learning_Projects
+# Machine Learning Projects
 This repository contains several machine learning projects I have worked on. 
 
 Machine Learning - Recommendation Engine using Collaborative Filtering.
