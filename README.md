@@ -1,6 +1,5 @@
 # Machine Learning Projects
-This repository contains several machine learning projects I have worked on. 
-
+This repository contains several machine learning projects I have worked on.
 *** Recommendation Engine using Collaborative Filtering ***
 
 This was a large scale, semester long project. 
