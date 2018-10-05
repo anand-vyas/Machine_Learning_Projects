@@ -1,7 +1,6 @@
 # Machine Learning Projects
 This repository contains several machine learning projects I have worked on.
 *** Recommendation Engine using Collaborative Filtering ***
-
 This was a large scale, semester long project. 
 
 We used the Scrum Framework for developing this project. Python was the language of our choice and the entire project has been built from scratch without using any tools/ API's. 
